@@ -29,7 +29,7 @@ h1{
 	position:relative;
 	border:1px solid black;
 	margin: 5px 10px;
-  	height: 170px;
+  	height: 160px;
  	border: 1px solid black;
 	border-radius: 4px;
 }
@@ -45,6 +45,7 @@ position:absolute;
 top:35px;
 padding:10px;
 width:100%
+height:auto;
 }
 
 .subtitle{
